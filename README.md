@@ -1,6 +1,7 @@
 # AgentVerse
 
-![AgentVerse Logo](https://github.com//AgentVerse/blob/main/AGENTVERSE.png)
+![AGENTVERSE](https://github.com/user-attachments/assets/25db9001-3b9e-4e26-aa39-e61ad7e49599)
+
 
 ## AI-Powered Project Risk Management System
 
@@ -16,7 +17,7 @@ AgentVerse is an advanced project risk management platform that leverages AI to 
 
 ## 📊 Dashboard & Visualization
 
-AgentVerse provides rich visual analytics including:
+AgentVerse provides rich visual analytics, including:
 - Project Health Score gauge
 - Risk breakdown by category
 - Risk evaluation charts (Probability vs. Impact)
