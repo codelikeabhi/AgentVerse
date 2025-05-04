@@ -1,6 +1,6 @@
 # AgentVerse
 
-![AgentVerse Logo](https://github.com/Kunj1/AgentVerse/blob/main/AGENTVERSE.png)
+![AgentVerse Logo](https://github.com//AgentVerse/blob/main/AGENTVERSE.png)
 
 ## AI-Powered Project Risk Management System
 
@@ -57,7 +57,7 @@ The system employs multiple specialized agents:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/agentverse.git
+git clone https://github.com/codelikeabhi/agentverse.git
 cd agentverse
 ```
 
@@ -96,8 +96,8 @@ The system requires the following CSV files for comprehensive risk analysis:
 
 ## Github Repositories
 
-- **Frontend**: [https://github.com/Kunj1/AgentVerse](https://github.com/Kunj1/AgentVerse)
-- **Backend**: [https://github.com/Kunj1/risk_management](https://github.com/Kunj1/risk_management)
+- **Frontend**: [https://github.com/codelikeabhi/AgentVerse](https://github.com/codelikeabhi/AgentVerse)
+- **Backend**: [https://github.com/codelikeabhi/risk_management](https://github.com/codelikeabhi/risk_management)
 
 ## 📜 License
 
@@ -118,5 +118,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 For questions or support, please open an issue or contact the repository owner.
 
 ---
-
-Made with ❤️ by CorpusBound Team
