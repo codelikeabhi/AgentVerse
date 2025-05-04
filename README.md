@@ -1,7 +1,6 @@
 # AgentVerse
 
-![AGENTVERSE](https://github.com/user-attachments/assets/25db9001-3b9e-4e26-aa39-e61ad7e49599)
-
+![AGENTVERSE](https://github.com/user-attachments/assets/460641d9-61fd-4c1d-b06b-1628275f4eda)
 
 ## AI-Powered Project Risk Management System
 
